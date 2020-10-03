@@ -40,7 +40,7 @@ Place: India<br/>
 About: Hacktoberfest
 <br/>
 
-Name: [Siddhant Mohanty] (https://github.com/siddhantmohanty2001) <br/>
+Name: [Siddhant Mohanty](https://github.com/siddhantmohanty2001) <br/>
 Place: India<br/>
 About: Hacktoberfest
 <br/>
