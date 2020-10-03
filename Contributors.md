@@ -39,3 +39,8 @@ Name: [Maniteja Pratha](https://github.com/Manitej66)<br/>
 Place: India<br/>
 About: Hacktoberfest
 <br/>
+
+Name: [Siddhant Mohanty](https://github.com/siddhantmohanty2001) <br/>
+Place: India<br/>
+About: Hacktoberfest
+<br/>
